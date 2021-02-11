@@ -1,0 +1,22 @@
+{
+  "name": "advcanced-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayalexandera/node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayalexandera/node-practice/issues"
+  },
+  "homepage": "https://github.com/mayalexandera/node-practice#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
